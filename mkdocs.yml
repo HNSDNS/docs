@@ -9,16 +9,21 @@ edit_uri: edit/main/docs/
 
 nav:
   - Home: index.md
+  - Getting started: getting-started/index.md
+  - Support: support/index.md
 
 theme:
   name: material
-  logo: assets/hns-white.png
   favicon: assets/hns-favicon_32x32.png
   features:
     - navigation.instant
     - navigation.tabs
     - navigation.top
     - toc.integrate
+  icon:
+    admonition:
+      note: octicons/tag-16
+  logo: assets/hns-white.png
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -43,6 +48,9 @@ plugins:
 markdown_extensions:
   - abbr
   - attr_list
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true 
   - pymdownx.tasklist:
       custom_checkbox: true
   - toc:
