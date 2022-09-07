@@ -18,7 +18,7 @@ You can configure HNSDNS in just 1 minute if you know how to change your DNS ser
 
 You can follow our setup guides. You'll currently find them for the following operating systems:
 
-- Windows
+- [Windows](/getting-started/windows/)
 
 - Linux
 
