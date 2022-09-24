@@ -1,6 +1,6 @@
 # Getting started
 
-??? note "What is a DNS server?"
+??? info "What is a DNS server?"
 
     DNS stands for Domain Name System, and it makes possible that when you type a domain name (ie. [www.google.com](https://www.google.com)), it shows an actual website instead of an error page.
     

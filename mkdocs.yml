@@ -12,6 +12,8 @@ nav:
   - Getting started:
     - Introduction: getting-started/index.md
     - Windows:  getting-started/windows.md
+  - Nameservers:
+    - Introduction: nameservers/index.md
   - Support: support/index.md
 
 theme:
@@ -49,6 +51,7 @@ plugins:
 
 markdown_extensions:
   - abbr
+  - admonition
   - attr_list
   - pymdownx.details
   - pymdownx.emoji:
@@ -70,4 +73,4 @@ extra:
       link: https://github.com/HNSDNS
       name: HNSDNS on GitHub
 
-copyright: Copyright &copy; 2022, <a href="https://www.lumito.net" target="_blank">Lumito</a>
+copyright: Copyright &copy; 2022, <a href="https://www.lumito.net" target="_blank">Lumito</a>. HNSDNS is not affiliated in any way with <a href="https://handshake.org" target="_blank">Handshake.org</a>.
