@@ -14,6 +14,7 @@ nav:
     - Windows:  getting-started/windows.md
   - Nameservers:
     - Introduction: nameservers/index.md
+    - Creating an account: nameservers/creating-an-account.md
   - Support: support/index.md
 
 theme:
