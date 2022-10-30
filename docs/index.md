@@ -2,8 +2,6 @@
 
 Here, you can find setup instructions for varios operating systems, developer information, support and more.
 
-***Warning: this documentation is currently under development. You may find missing instructions and blank pages. Be aware that they will be filled out as soon as I can. Thanks.***
-
 ## Features
 
 *Features with a green tick are currently available. Features with a gray tick are not available yet.*
