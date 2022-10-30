@@ -13,6 +13,8 @@ nav:
     - Introduction: getting-started/index.md
     - Windows:  getting-started/windows.md
     - Linux:  getting-started/linux.md
+    - Android:  getting-started/android.md
+    - Routers:  getting-started/routers.md
   - Nameservers:
     - Introduction: nameservers/index.md
     - Creating an account: nameservers/creating-an-account.md

@@ -26,6 +26,10 @@ Here, you can find setup instructions for varios operating systems, developer in
 
 - [x] IPv6 support.
 
+- [x] DoH support.
+
+- [x] ENS support.
+
 - [x] Desktop support.
 
 - [x] Mobile support.
@@ -34,11 +38,7 @@ Here, you can find setup instructions for varios operating systems, developer in
 
 - [x] Web 2.0 compatible.
 
-- [ ] DoH support.
-
 - [ ] DoT support.
-
-- [ ] ENS, Unstoppable Domains, and other blockchain domain support.
 
 - [ ] DNSSEC/DANE SSL certificate validation.
 
@@ -58,8 +58,8 @@ As shown in the features, HNSDNS doesn't require any software instalation, and y
 
 *[DoH]: DNS-over-HTTPS. A protocol that encrypts the DNS request from the client to the DNS resolver, using HTTPS on port 443.
 
-*[DoT]: DNS-over-TLS. Another DNS encryption protocol, but this one works on it own port: 853.
+*[DoT]: DNS-over-TLS. Another DNS encryption protocol, but this one works on its own port: 853.
 
 *[ENS]: Ethereum Name System
 
-*[DNSSEC/DANE SSL certificate validation]: Attempt to decentralize certification authorities, so anyone can generate it's own self-signed certificate and prove that it owns that domain by adding it's hash to the domain's DNS records, which get signed (DNSSEC) to proof that they haven't been modified.
+*[DNSSEC/DANE SSL certificate validation]: Attempt to decentralize certification authorities, so anyone can generate it's own self-signed certificate and prove that it owns that domain by adding it's hash to the domain's DNS records, which get signed (DNSSEC) to proof that they haven't been modified. Your browser needs to support DANE for this to work.

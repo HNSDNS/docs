@@ -49,8 +49,6 @@ Even though it sounds similar to the previous step, this procedure uses a differ
 name_servers="139.144.68.241 139.144.68.242 2a01:7e01:e002:c300:: 2a01:7e01:e002:c500::"
 ```
 
-
-
 If you know any additional system-wide method of changing the DNS servers in Linux, please fork this repository (on GitHub), edit it and open a Pull Request. Thanks!
 
 If you have any problems while setting HNSDNS up, please visit the [support](/support/) page for help.

@@ -17,7 +17,7 @@ To setup HNSDNS on Windows, you'll just need to follow these simple steps. **Not
 5. Write the following settings:
    
        * `139.144.68.241` for the Preferred DNS server.
-   
+       
        * `139.144.68.242` for the Alternate DNS server.
 
 6. Click "Ok". Now let's do the same for IPv6.
@@ -31,11 +31,9 @@ To setup HNSDNS on Windows, you'll just need to follow these simple steps. **Not
 9. Write the following settings:
    
        * `2a01:7e01:e002:c300::` for the Preferred DNS server.
-   
+       
        * `2a01:7e01:e002:c500::` for the Alternate DNS server.
 
 10. Click "Ok" twice and you're now ready! Try visiting <a href="http://lumito/" target="_blank">lumito/</a> in your browser. **Note**: it may take a while to load.
-
-
 
 If you have any problems while setting HNSDNS up, please visit the [support](/support/) page for help.

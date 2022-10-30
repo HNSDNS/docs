@@ -22,9 +22,9 @@ You can follow our setup guides. You'll currently find them for the following op
 
 - [Linux](/getting-started/linux/)
 
-- Android
+- [Android](/getting-started/android/)
 
-- Routers
+- [Routers](/getting-started/routers/)
 
 If you know how to configure them in another operating system that isn't listed above, please contribute to the project by editing this documentation page. **Note**: you'll need a GitHub account.
 

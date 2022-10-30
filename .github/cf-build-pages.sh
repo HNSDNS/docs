@@ -7,6 +7,6 @@
 # Update dependencies
 python3 -m pip install --upgrade pip setuptools wheel mkdocs
 # Install plugins
-python3 -m pip install mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-minify-plugin
+python3 -m pip install --upgrade mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-minify-plugin
 # Build docs
 mkdocs build
