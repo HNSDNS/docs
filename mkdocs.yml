@@ -16,6 +16,7 @@ nav:
     - Introduction: nameservers/index.md
     - Creating an account: nameservers/creating-an-account.md
     - DNS management tutorial: nameservers/tutorial.md
+    - Important notes: nameservers/important-notes.md
   - Support: support/index.md
 
 theme:
