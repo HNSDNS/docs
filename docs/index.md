@@ -48,7 +48,7 @@ Here, you can find setup instructions for varios operating systems, developer in
 
 As shown in the features, HNSDNS doesn't require any software instalation, and you can set it up by changing just a few configuration settings. These vary depending on which operating system you currently are. Due to obvious limitations, we can't write configurations steps for each OS on earth, but if you use one that doesn't have a documentation written, or you just want to add a new one, you can always edit the docs directly within your GitHub account.
 
-[:fontawesome-solid-paper-plane: Get started in less than 5 minutes](/getting-started/){ .md-button }
+[:fontawesome-solid-paper-plane: Get started in less than 5 minutes](/dns-resolver/){ .md-button }
 
 <!-- Reference -->
 

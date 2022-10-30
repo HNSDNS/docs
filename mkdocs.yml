@@ -9,12 +9,13 @@ edit_uri: edit/main/docs/
 
 nav:
   - Home: index.md
-  - Getting started:
-    - Introduction: getting-started/index.md
-    - Windows:  getting-started/windows.md
-    - Linux:  getting-started/linux.md
-    - Android:  getting-started/android.md
-    - Routers:  getting-started/routers.md
+  - DNS resolver:
+    - Getting started: dns-resolver/index.md
+    - Windows:  dns-resolver/windows.md
+    - Linux:  dns-resolver/linux.md
+    - Android:  dns-resolver/android.md
+    - Routers:  dns-resolver/routers.md
+    - Advanced options: dns-resolver/advanced.md
   - Nameservers:
     - Introduction: nameservers/index.md
     - Creating an account: nameservers/creating-an-account.md
