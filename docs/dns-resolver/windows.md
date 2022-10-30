@@ -34,6 +34,8 @@ To setup HNSDNS on Windows, you'll just need to follow these simple steps. **Not
        
        * `2a01:7e01:e002:c500::` for the Alternate DNS server.
 
-10. Click "Ok" twice and you're now ready! Try visiting <a href="http://lumito/" target="_blank">lumito/</a> in your browser. **Note**: it may take a while to load.
+10. Click "Ok", then "Close", and you're now ready! Try visiting <a href="http://lumito./" target="_blank">lumito./</a> in your browser. **Note**: it may take a while to load.
+
+**Note**: For some reason, Windows doesn't handle well domains without a dot in it. That's the reason of why I placed that dot before the slash in the domain name. So, if you want to access a domain like `example/`, you'll need to add a dot before the slash. However, if you try to access a domain like `test.example/`, it'll work just fine.
 
 If you have any problems while setting HNSDNS up, please visit the [support](/support/) page for help.
