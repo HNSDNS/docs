@@ -20,7 +20,7 @@ You can follow our setup guides. You'll currently find them for the following op
 
 - [Windows](/getting-started/windows/)
 
-- Linux
+- [Linux](/getting-started/linux/)
 
 - Android
 
