@@ -45,7 +45,7 @@ You can point your domain to HNSDNS's nameserver using the following IP addresse
     * (ns1) 2a01:7e01:e002:c301::
     * (ns2) 2a01:7e01:e002:c501::
 
-You may also point your domain to the following nameservers:
+You may also point your domain to the following nameservers instead:
 
 * ns1.dns.lumito
 * ns2.dns.lumito
