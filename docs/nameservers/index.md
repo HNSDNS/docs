@@ -32,3 +32,22 @@ For that reason, I've built, alongside with HNSDNS's DNS resolver, Handshake nam
 * You can have your Handshake domain in your own wallet (ie. Bob Wallet).
 
 * Full IPv6, DNSSEC and DANE/TLSA support.
+
+You can point your domain to HNSDNS's nameserver using the following IP addresses:
+
+=== "IPv4/GLUE4"
+
+    * (ns1) 170.187.187.74
+    * (ns2) 170.187.187.89
+
+=== "IPv6/GLUE6"
+
+    * (ns1) 2a01:7e01:e002:c301::
+    * (ns2) 2a01:7e01:e002:c501::
+
+You may also point your domain to the following nameservers:
+
+* ns1.dns.lumito
+* ns2.dns.lumito
+
+Remember that you'll need an [account](/nameservers/creating-an-account/), and don't forget to read the [tutorial](/nameservers/tutorial/) and the [important notes](/nameservers/important-notes/) sections!
