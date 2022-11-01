@@ -33,7 +33,7 @@ For that reason, I've built, alongside with HNSDNS's DNS resolver, Handshake nam
 
 * Full IPv6, DNSSEC and DANE/TLSA support.
 
-You can point your domain to HNSDNS's nameserver using the following IP addresses:
+You can point your domain to HNSDNS's nameservers using the following IP addresses:
 
 === "IPv4/GLUE4"
 
