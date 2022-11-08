@@ -13,7 +13,7 @@ We offer support via Discord and email.
 
 ## Discord support (recommended)
 
-You can contact and discuss with us in <a href="https://discord.gg/handshake" target="_blank">Handshake's discord server</a>. After joining in, go to <a href="https://discord.com/channels/822591034202521641/1037453807233278012" target="_blank">this link</a> or to project-discussion → HNSDNS.
+You can contact and discuss with us in <a href="https://discord.gg/pPYEKG9JzK" target="_blank">Handshake's discord server</a>. After joining in, go to <a href="https://discord.com/channels/822591034202521641/1037453807233278012" target="_blank">this link</a> or to project-discussion → HNSDNS.
 
 We usually respond in less than a day.
 
