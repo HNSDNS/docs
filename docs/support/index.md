@@ -21,7 +21,7 @@ We usually respond in less than a day.
 
 You can send an email to us through the following email address:
 
-!!! info "Replace (~at-] with @ and {/d0t\\) with a period. This is used to prevent bots spamming the email address."
+!!! info "Replace (~at-] with @ and {/d0t\\) with a period. This is used to prevent bots from spamming the email address."
 
     support (~at-] hnsdns {/d0t\\) com
 
