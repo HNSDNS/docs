@@ -13,6 +13,6 @@ We offer support via email. You can send an email to us through the following em
 
 !!! info "Support email address"
 
-    support@lumito.net
+    support (at) lumito (dot) net
 
 A support ticket will be opened and you can expect a response in 24-48h.
