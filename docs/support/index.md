@@ -1,5 +1,7 @@
 # Support
 
+**Important note: HNSDNS has been deprecated since August 1st, and will stop working in the near future. Support will still be provided as usual until September 4th. [More information](https://www.lumito.net/2025/08/01/deprecation-and-future-of-hnsdns/).**
+
 HNSDNS offers support for free. We just ask you to follow these simple guidelines, to provide a better support experience for everyone:
 
 !!! tip "Guidelines for contacting support"

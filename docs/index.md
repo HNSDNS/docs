@@ -1,6 +1,6 @@
 # Welcome to HNSDNS's docs!
 
-**Important note: HNSDNS has been deprecated since August 1st, and will stop working during the month. [More information](https://www.lumito.net/2025/08/01/deprecation-and-future-of-hnsdns/).**
+**Important note: HNSDNS has been deprecated since August 1st, and will stop working in the near future. [More information](https://www.lumito.net/2025/08/01/deprecation-and-future-of-hnsdns/).**
 
 Here, you can find setup instructions for varios operating systems, developer information, support and more.
 

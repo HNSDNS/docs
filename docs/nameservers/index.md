@@ -1,5 +1,7 @@
 # Nameservers
 
+**Important note: HNSDNS has been deprecated since August 1st, and will stop working in the near future. [More information](https://www.lumito.net/2025/08/01/deprecation-and-future-of-hnsdns/).**
+
 Another great feature of HNSDNS is that it provides a Handshake nameserver service with full DNSSEC and DANE support (the first of the world).
 
 **Note**: this is only for people who already have Handshake domains, or are interested in obtaining one. If you just want to browse Handshake domains, please ignore this section.

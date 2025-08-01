@@ -1,5 +1,7 @@
 # DNS resolver
 
+**Important note: HNSDNS has been deprecated since August 1st, and will stop working in the near future. [More information](https://www.lumito.net/2025/08/01/deprecation-and-future-of-hnsdns/).**
+
 ??? info "What is a DNS resolver?"
 
     DNS stands for Domain Name System, and it makes possible that when you type a domain name (ie. [www.google.com](https://www.google.com)), it shows an actual website instead of an error page.
